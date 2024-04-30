@@ -1,3 +1,3 @@
 # lab1
 this for demo only
-git clone
+first lab class
